@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2785542f-8bee-4f78-b14f-106501e193d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day01/quiz/Quiz06.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Quiz09">
-    <configuration name="Quiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.Quiz03" />
+  <component name="RunManager" selected="Application.Practice09">
+    <configuration name="Practice09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.Practice09" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day01.quiz.*" />
+          <option name="PATTERN" value="com.xsis.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.Quiz05" />
+    <configuration name="Quiz06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.quiz.Quiz06" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
@@ -118,19 +110,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Quiz03" />
-      <item itemvalue="Application.Quiz05" />
       <item itemvalue="Application.Quiz07" />
       <item itemvalue="Application.Quiz08" />
       <item itemvalue="Application.Quiz09" />
+      <item itemvalue="Application.Quiz06" />
+      <item itemvalue="Application.Practice09" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice09" />
+        <item itemvalue="Application.Quiz06" />
         <item itemvalue="Application.Quiz09" />
         <item itemvalue="Application.Quiz08" />
         <item itemvalue="Application.Quiz07" />
-        <item itemvalue="Application.Quiz05" />
-        <item itemvalue="Application.Quiz03" />
       </list>
     </recent_temporary>
   </component>
