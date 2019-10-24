@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2785542f-8bee-4f78-b14f-106501e193d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch-219.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day01/Practice01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day01/Practice02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day01/Practice03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day01/Practice04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/batch-219/com/xsis/day01/Practice05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Practice05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
