@@ -15,6 +15,15 @@ public class pr06 {
         cash2 = (int)sisa / 10;
         sisa = (int)sisa % 10;
 
+        // dapet rumus dari david
+        // nggak perlu make variable sisa, dengan cara seperti ini
+        // cash1 = (int)nominal/20;
+        // cash2 = ((int)nominal%20) / 10;
+        // cash3 = ((int)nominal%10) / 5;
+        // cash4 = (int)nominal%5;
+        //
+        // masih salah wkwk nih yang diatas
+
         cash3 = (int)sisa / 5;
         sisa = (int)sisa % 5;
 
