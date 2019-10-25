@@ -29,6 +29,8 @@ public class pr02 {
         sisa = (int)sisa % 1;
         System.out.println("digit 5: " + digit5 + ", sisa: " + sisa);
 
-        System.out.println("hasil Reverse adalah: " + digit5 + digit4 + digit3 + digit2 + digit1);
+        reverse = (digit5*10000) + (digit4*1000) + (digit3*100) + (digit2*10) + digit1;
+
+        System.out.println("hasil Reverse adalah: " + reverse);
     }
 }

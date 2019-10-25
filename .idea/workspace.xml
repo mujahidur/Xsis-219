@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2785542f-8bee-4f78-b14f-106501e193d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day01/pr/pr02.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pr07">
-    <configuration name="pr03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr03" />
+  <component name="RunManager" selected="Application.pr02">
+    <configuration name="pr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day01.pr.pr02" />
       <module name="batch-219" />
       <extension name="coverage">
         <pattern>
@@ -115,19 +109,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.pr03" />
       <item itemvalue="Application.pr04" />
       <item itemvalue="Application.pr05" />
       <item itemvalue="Application.pr06" />
       <item itemvalue="Application.pr07" />
+      <item itemvalue="Application.pr02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pr02" />
         <item itemvalue="Application.pr07" />
         <item itemvalue="Application.pr06" />
         <item itemvalue="Application.pr05" />
         <item itemvalue="Application.pr04" />
-        <item itemvalue="Application.pr03" />
       </list>
     </recent_temporary>
   </component>
